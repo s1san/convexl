@@ -18,12 +18,13 @@ Output
 4 : 6 , 6
 ```
 
-# sweep line
+# segment intersection
 
-Input
-```
-4
-1 1 6 2
-2 0 4 7
-0 3 7 1
-2 5 5 5
+# orthogonal range queries
+
+# reference
+
+[Ear-clipping-triangulation](https://github.com/Muzkaw/Ear-clipping-triangulation/tree/master)
+
+[KDTree](https://github.com/crvs/KDTree/tree/master)
+
